@@ -1,8 +1,4 @@
 # EXPERIMENT--06-IoT-Based-Relay-Control-System-Using-LoRaWAN-and-Application-Server
-
-## NAME : NANDHINI S
-## REG NO: 212224230174
-## DATE : 09/03/2026
 ## Aim
 To configure a LoRaWAN end device and monitor IR sensor data using a network server and dashboard visualization.
 

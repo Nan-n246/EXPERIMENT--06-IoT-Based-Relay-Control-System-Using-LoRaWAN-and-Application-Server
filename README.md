@@ -28,18 +28,20 @@ To configure a LoRaWAN end device and monitor IR sensor data using a network ser
 <img width="1364" height="716" alt="image" src="https://github.com/user-attachments/assets/1cfa1482-0bd0-4aff-9311-5eaa8df4f076" />
 
 ### 2. Network Server – Recent Events
-<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/be600909-29dd-4cc6-8ab3-250df08d27ae" />
+<img width="1749" height="963" alt="Screenshot 2026-03-19 165539" src="https://github.com/user-attachments/assets/89b16d0f-9b8e-4f69-9c4f-02f59e37906e" />
+
 <img width="1919" height="1038" alt="image" src="https://github.com/user-attachments/assets/a429f1e2-4484-439c-9b75-46c0977803f7" />
 
 ### 3. Dashboard Command Sending
-<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/af26fbc4-03bc-48cf-8bc9-cd3ce128b6bc" />
-<img width="1908" height="1018" alt="image" src="https://github.com/user-attachments/assets/267d510d-672d-450b-8fac-ee45ad9be941" />
+<img width="1870" height="1128" alt="Screenshot 2026-03-19 170623" src="https://github.com/user-attachments/assets/cfdca6b3-888d-4ef5-8912-e721fffb6a36" />
+
+<img width="1840" height="1120" alt="Screenshot 2026-03-19 170837" src="https://github.com/user-attachments/assets/7218fddb-be1a-4bf5-a54d-fbf351dc1bc8" />
 
 ### 4. Relay Status Dashboard Output
 
 ### Bulb ON → Relay ON  
 <img width="1280" height="570" alt="image" src="https://github.com/user-attachments/assets/c942573a-83e3-4bc1-9cae-42590843e1a3" />
-
+c
 ### Bulb OFF → Relay OFF
 <img width="570" height="1280" alt="image" src="https://github.com/user-attachments/assets/be51b27b-0ea8-434c-bb63-34738f57aab5" />
 

@@ -41,7 +41,7 @@ To configure a LoRaWAN end device and monitor IR sensor data using a network ser
 
 ### Bulb ON → Relay ON  
 <img width="1280" height="570" alt="image" src="https://github.com/user-attachments/assets/c942573a-83e3-4bc1-9cae-42590843e1a3" />
-c
+
 ### Bulb OFF → Relay OFF
 <img width="570" height="1280" alt="image" src="https://github.com/user-attachments/assets/be51b27b-0ea8-434c-bb63-34738f57aab5" />
 
